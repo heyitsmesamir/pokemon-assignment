@@ -30,7 +30,7 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/001.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/7/76/Spr_5b_001.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/001.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
     }
@@ -66,7 +66,7 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/002.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/e/e1/Spr_5b_002.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/002.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/002.png"
     }
@@ -102,7 +102,7 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/003.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/6/68/Spr_5b_003_m.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/003.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/003.png"
     }
@@ -138,7 +138,7 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/004.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/0/0a/Spr_5b_004.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/004.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/004.png"
     }
@@ -174,7 +174,7 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/005.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/0/09/Spr_5b_005.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/005.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/005.png"
     }
@@ -210,7 +210,7 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/006.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/e/e1/Spr_5b_006.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/006.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/006.png"
     }
@@ -246,7 +246,7 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/007.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/5/59/Spr_5b_007.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/007.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/007.png"
     }
@@ -282,7 +282,7 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/008.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/0/0b/Spr_5b_008.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/008.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/008.png"
     }
@@ -318,7 +318,7 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/009.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/3/3d/Spr_5b_009.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/009.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/009.png"
     }
@@ -354,7 +354,7 @@
       "gender": "50:50"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/010.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/8/83/Spr_5b_010.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/010.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/010.png"
     }
@@ -387,7 +387,7 @@
       "gender": "50:50"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/011.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/2/2b/Spr_5b_011.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/011.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/011.png"
     }
@@ -423,9 +423,10 @@
       "gender": "50:50"
     },
     "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/012.png",
+      "sprite": "https://archives.bulbagarden.net/media/upload/7/7c/Spr_5b_012_m.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/012.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/012.png"
     }
   }
+
 ]
